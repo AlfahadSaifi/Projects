@@ -1,4 +1,4 @@
-# Voice_Assistant App
+# Voice Assistant App
 
 A new Flutter project.
 
