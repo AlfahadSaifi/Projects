@@ -1,2 +1,1 @@
-# Projects
-Projects to be added to Resume
+Voice Assistant app developed using openAI's API and text to speech translation.
